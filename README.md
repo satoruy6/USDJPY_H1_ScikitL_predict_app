@@ -1,0 +1,2 @@
+# USDJPY_H1_ScikitL_predict_app
+USDJPYの1時間足をScikit-Learnを使用して予測するアプリ
